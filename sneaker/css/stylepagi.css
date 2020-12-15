@@ -1,0 +1,11 @@
+.container{
+	margin: auto;
+}
+.pagi-active{
+	color: white;
+	background: black;
+}
+.pagi-non-active{
+	color: black;
+	background: white;
+}
