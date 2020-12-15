@@ -1,5 +1,5 @@
 <?php session_start(); ?>
-<?php
+<!-- <?php
 $localhost = new MySQLi("localhost","root","");
 if (mysqli_connect_errno())
 {
@@ -10,7 +10,7 @@ $con = mysqli_connect('localhost','root','','website');
 
 
  ?>
-
+ -->
 
 <!DOCTYPE html>
 <html lang="en">
