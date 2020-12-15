@@ -16,7 +16,7 @@ if(!isset($_SESSION['id'])){
 //         ';
 
 $getInfo = "SELECT * FROM account WHERE id = '".$_SESSION["id"]."'";
-$con = mysqli_connect("localhost","root","","website");
+$con = mysqli_connect("sql12.freemysqlhosting.net","sql12382125","SFLxqit2c2","sql12382125");
 $run = mysqli_query($con, $getInfo);
 $row = mysqli_fetch_array($run);	
 $output = '';

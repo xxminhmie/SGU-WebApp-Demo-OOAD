@@ -10,7 +10,7 @@ if(isset($_REQUEST["placeorder"])){
 
 	$curdate =  date("Y/m/d");
 
-	$con = mysqli_connect("localhost","root","","website");
+	$con = mysqli_connect("sql12.freemysqlhosting.net","sql12382125","SFLxqit2c2","sql12382125");
 	$insertorder = "INSERT INTO `order`(accountid,`"."date"."`) VALUES ('".$accoutid."','".$curdate."')";
 	$orderid = '';
 

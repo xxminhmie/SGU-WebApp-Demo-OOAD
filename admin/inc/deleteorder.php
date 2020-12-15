@@ -5,7 +5,7 @@
   alert("hi");
 </script>'; 
 
-	$connect = mysqli_connect("localhost", "root", "", "website");
+	$connect = mysqli_connect("sql12.freemysqlhosting.net","sql12382125","SFLxqit2c2","sql12382125");
 	// $sql = "DELETE FROM brand WHERE id = '".$_POST["id"]."'";
 	echo '
     <script type="text/javascript">

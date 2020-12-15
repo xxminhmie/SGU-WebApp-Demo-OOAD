@@ -33,7 +33,7 @@
 </body>
 
 <?php //kiểm tra đăng nhập
-$con = mysqli_connect("localhost","root","","website");
+$con = mysqli_connect("sql12.freemysqlhosting.net","sql12382125","SFLxqit2c2","sql12382125");
 if(isset($_POST['login'])){
 	$username = trim(mysqli_real_escape_string($con,$_POST['username']));
 	$password = trim(mysqli_real_escape_string($con,$_POST['password']));
