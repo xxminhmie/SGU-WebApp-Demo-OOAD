@@ -1,8 +1,0 @@
-
-username		password		role
-admin			admin			admin
-manager			manager			manager
-staff			staff			staff
-xxminhmie3		xxminhmie3		customer
-xxminhmie4		xxminhmie4		customer
-mymy			mymy			customer
