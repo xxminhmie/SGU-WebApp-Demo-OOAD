@@ -68,7 +68,7 @@ echo '
                         <input type="" name="pname" value="'.$row["name"].'" style="display: none;">
                         <input type="" name="pcolor" value="'.$row["color"].'" style="display: none;">
                         
-                        <button href="#" type="submit" class="primary-btn">ADD TO CARD</button>
+                        <button href="#" type="submit" class="primary-btn">ADD TO CART</button>
                     </form>
                     
                     
