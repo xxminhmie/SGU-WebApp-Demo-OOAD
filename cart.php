@@ -38,9 +38,9 @@ if (isset($_GET['action']) && $_GET['action']=="remove"){
         <div class="row" style="margin-top: 30px;">
             <div class="col-lg-8">
             	<div class="row">
-					<div class="col-lg-12" id="productincart_header">
+					<!--<div class="col-lg-12" id="productincart_header">
 						<h2 style="font-weight: 400; margin-bottom: 12px;font-size: 28px">Bag</h2>
-					</div>
+					</div>-->
 					<div class="col-lg-12" id="productincart_content">
 						<div class="row">
 							<?php
