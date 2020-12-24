@@ -1,6 +1,6 @@
 <?php session_start(); ?>
 <?php
-$localhost = new MySQLi("sql12.freemysqlhosting.net","sql12382125","SFLxqit2c2");
+$localhost = new MySQLi("db4free.net/3306","sql12382125","SFLxqit2c2");
 if (mysqli_connect_errno())
 {
     echo '<script>window.open("404.php","_self");</script>';
