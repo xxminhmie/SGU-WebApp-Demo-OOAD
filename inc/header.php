@@ -1,11 +1,11 @@
 <?php session_start(); ?>
 <?php
-$localhost = new MySQLi("db4free.net/3306","sql12382125","SFLxqit2c2");
+$localhost = new MySQLi("sql12.freemysqlhosting.net","sql12383713","HvJu9gzP5t");
 if (mysqli_connect_errno())
 {
     echo '<script>window.open("404.php","_self");</script>';
 }
-$con = mysqli_connect('sql12.freemysqlhosting.net','sql12382125','SFLxqit2c2','sql12382125');
+$con = mysqli_connect('sql12.freemysqlhosting.net','sql12383713','HvJu9gzP5t','sql12383713');
 
 
 
