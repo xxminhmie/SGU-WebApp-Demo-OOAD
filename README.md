@@ -1,1 +1,1 @@
-# ooad-webapp-demo
+# SGU WebApp Demo on Heroku
